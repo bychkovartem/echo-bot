@@ -2,7 +2,7 @@
 
 Универсальный Telegram-бот, который повторяет все полученные сообщения (текст, фото, видео, документы и другие типы контента).
 
-![Alt text]](https://github.com/bychkovartem/echo-bot/2025-05-09_13-40-25.png) "a title")
+![Alt text](https://github.com/bychkovartem/echo-bot/2025-05-09_13-40-25.png)]
 
 ## ✨ Особенности
 
